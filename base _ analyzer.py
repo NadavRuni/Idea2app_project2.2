@@ -1,3 +1,5 @@
+from typing import Any
+
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -9,7 +11,7 @@ from google import genai
 from dotenv import load_dotenv
 import os
 
-def get_response_from_gemini(prompt, image)-> str:
+def get_response_from_gemini(prompt, image)-> Any:
     for attempt in range(3):
         try:
             response = client.models.generate_content(
