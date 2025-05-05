@@ -1,0 +1,1458 @@
+{
+    "23.95420291888193,32.99497151535935": {
+        "latitude": 23.95420291888193,
+        "longitude": 32.99497151535935,
+        "findings": [
+            [
+                "Multiple circular structures, possibly missile silos or radar installations",
+                "Several rectangular buildings, likely barracks, administrative buildings, or storage facilities",
+                "A large amphitheater-like structure, potentially for training or assembly",
+                "Roads and pathways connecting the different structures",
+                "Possible communication towers or antennae",
+                "Defensive perimeter with berms or walls around certain areas",
+                "linear arrays, possibly for antennas or solar panels",
+                "series of elongated buildings , possibly for vehicle storage"
+            ],
+            [
+                "Multiple circular structures, likely missile silos or radar installations, identifiable by their ring-like appearance and central features.",
+                "Several rectangular buildings, potentially serving as barracks, administrative buildings, or storage facilities.",
+                "A large open area containing writing in Arabic, which might be a training ground.",
+                "Roads and pathways connecting the different structures.",
+                "Perimeter security consisting of berms or walls around sensitive areas.",
+                "linear arrays, which could be for antennas or solar panels.",
+                "series of elongated buildings , possibly for vehicle storage.",
+                "Possible communication towers or antennae",
+                "A structure resembling a potential command and control center",
+                "Defensive positions surrounding the base",
+                "Possible locations of SAM"
+            ],
+            [
+                "Multiple circular structures (likely missile silos or radar installations)",
+                "Rectangular buildings (barracks, administrative buildings, or storage facilities)",
+                "Large open area containing writing in Arabic (possibly a training ground)",
+                "Roads and pathways connecting structures",
+                "Perimeter security (berms or walls)",
+                "Linear arrays (antennas or solar panels)",
+                "Elongated buildings (possibly vehicle storage)",
+                "Possible communication towers or antennae",
+                "Potential command and control center",
+                "Defensive positions surrounding the base"
+            ],
+            [
+                "Multiple circular structures (likely missile silos or radar installations).",
+                "Rectangular buildings (barracks, administrative buildings, or storage facilities).",
+                "Large open area containing writing in Arabic (possibly a training ground).",
+                "Roads and pathways connecting structures.",
+                "Perimeter security (berms or walls).",
+                "Linear arrays (antennas or solar panels).",
+                "Elongated buildings (possibly vehicle storage).",
+                "Possible communication towers or antennae."
+            ],
+            [
+                "Multiple circular structures, possibly missile silos or radar installations, symmetrically arranged.",
+                "Several rectangular buildings that could serve as barracks, administrative buildings, or storage facilities.",
+                "A large open area containing writing in Arabic, potentially a training ground or a symbolic installation.",
+                "Roads and pathways connecting the structures within the base.",
+                "Possible perimeter security features.",
+                "Several smaller structures, possible guard positions.",
+                "Centralized administrative building.",
+                "Possible anti aircraft positions."
+            ],
+            [
+                "Multiple circular structures, likely hardened aircraft shelters (HAS) or missile facilities.",
+                "Rectangular buildings, potentially barracks, administrative buildings, or storage facilities.",
+                "Arabic writing on the ground, potentially a training ground or symbolic installation.",
+                "Roads connecting the structures within the base.",
+                "Smaller structures, possibly guard posts or support buildings.",
+                "Possible perimeter security features, evident by the layout and spacing of structures.",
+                "Centralized administrative building.",
+                "What appear to be two aircraft or large vehicles within the semi-circular structures."
+            ],
+            [
+                "Multiple semi-circular structures, potentially hardened aircraft shelters (HAS) or storage facilities.",
+                "Structures located inside the semi-circular facilities, with the possibility of aircraft or other military vehicles.",
+                "Rectangular buildings, potentially barracks, administrative buildings, or storage facilities.",
+                "Roads connecting the structures within the base.",
+                "Smaller structures, possibly guard posts or support buildings."
+            ],
+            [
+                "Unclear semi-circular structures, possibly hardened aircraft shelters (HAS) or storage facilities.",
+                "Unclear structures located inside the semi-circular facilities, potentially aircraft or other military vehicles.",
+                "Unclear rectangular buildings, possibly barracks, administrative buildings, or storage facilities.",
+                "Unclear Roads connecting structures within the base."
+            ]
+        ],
+        "deepseek_summary": {
+            "country": "Egypt",
+            "army": "Egyptian Armed Forces",
+            "base_type": "mixed",
+            "access_routes": [
+                "Road from northwest (asphalt road)",
+                "Access path from southeast (unpaved track)"
+            ],
+            "special_weapon": [
+                "Possible SAM systems",
+                "Suspected missile silos",
+                "Potential armored vehicles"
+            ],
+            "key_observations": [
+                "Hardened aircraft shelters (HAS) for aircraft/missile storage",
+                "Defensive perimeters with berms and walls",
+                "Communication towers and antenna arrays",
+                "Training areas with Arabic inscriptions",
+                "Centralized command and control infrastructure",
+                "Elongated vehicle storage facilities"
+            ],
+            "conclusion": "Strategic military base with air defense and missile capabilities, combining offensive and training functions. High readiness indicated by SAM systems and hardened shelters.",
+            "threat_level": "high",
+            "recommended_attack_routes": [
+                "Airstrikes on command center to disrupt operations",
+                "Stealth attacks on SAM systems via northwest road",
+                "Sabotage communication towers to disable coordination",
+                "Ground assault from southeast to exploit weaker defenses",
+                "Drone strikes on vehicle storage to limit mobility"
+            ]
+        }
+    },
+    "24.03722729324398,32.97766644318213": {
+        "latitude": 24.03722729324398,
+        "longitude": 32.97766644318213,
+        "findings": [
+            [
+                "Several circular structures (likely missile silos or launch facilities)",
+                "Administrative or support buildings",
+                "Possible radar installations",
+                "Road network connecting different parts of the facility",
+                "Perimeter security measures (e.g., fences, guard towers)"
+            ],
+            [
+                "Circular structures (potential missile silos/launch facilities) - multiple present",
+                "Administrative or support buildings",
+                "Possible radar installations (circular feature with central point)",
+                "Road network connecting different parts of the facility",
+                "Perimeter security measures (possible fencing or walls around some structures)",
+                "Barracks/housing structures"
+            ],
+            [
+                "Multiple circular structures, potentially missile silos or launch facilities",
+                "Administrative or support buildings in the central area",
+                "Possible radar installations (circular feature with central point)",
+                "Road network connecting different parts of the facility",
+                "Perimeter security measures (fencing or walls around some structures)",
+                "Barracks/housing structures",
+                "Possible surface-to-air missile (SAM) sites (identified by circular or octagonal layouts, though more zoom is needed to confirm)",
+                "Storage bunkers or ammunition depots",
+                "Guard towers or observation posts along the perimeter"
+            ],
+            [
+                "Six circular structures with possible central installations, potentially missile silos or anti-aircraft sites.",
+                "Central complex with administrative buildings.",
+                "Possible radar installation within the central complex.",
+                "Road network connecting the circular structures and the central complex.",
+                "Possible perimeter security features or defensive positions.",
+                "Several other support buildings or storage facilities.",
+                "Possible vehicle or equipment storage areas."
+            ],
+            [
+                "Six circular structures with possible central installations.",
+                "Central complex with administrative buildings.",
+                "Road network connecting the circular structures and the central complex.",
+                "Possible vehicle or equipment storage areas.",
+                "Possible anti-aircraft positions in the circular structures.",
+                "Possible perimeter security features or defensive positions."
+            ],
+            [
+                "Six circular structures with potential central installations.",
+                "Central complex with multiple buildings.",
+                "Road network connecting the circular structures to the central complex.",
+                "Possible storage areas.",
+                "Potential defensive positions within the circular structures.",
+                "Possible anti-aircraft positions in the circular structures.",
+                "Possible perimeter security features or defensive positions."
+            ],
+            [
+                "Several buildings, including a central complex.",
+                "Possible storage areas.",
+                "Road network connecting different areas within the base.",
+                "At least one circular structure, potentially a defensive position.",
+                "Presence of vehicle(s) or equipment near one of the circular structures",
+                "Perimeter security features (difficult to discern specifics without zooming).",
+                "Debris scattered within and around buildings and circular structures."
+            ],
+            [
+                "Several buildings, including some with distinct rectangular outlines and possible perimeter walls.",
+                "Multiple circular structures, likely defensive positions or storage facilities.",
+                "A network of roads and pathways connecting different buildings and structures.",
+                "Possible military equipment or vehicles parked near the circular structures.",
+                "Potential storage areas, based on the shape and layout of some buildings.",
+                "Dark lines that might be tracks from military vehicles.",
+                "Objects that could be antenna or communication towers.",
+                "Debris or scattered materials around buildings and structures."
+            ]
+        ],
+        "deepseek_summary": {
+            "country": "Egypt",
+            "army": "Egyptian Armed Forces",
+            "base_type": "mixed",
+            "access_routes": [
+                "Northern access road from Aswan (asphalt highway)",
+                "Eastern supply route towards Red Sea (gravel road)",
+                "Internal road network connecting silos and command center"
+            ],
+            "special_weapons": [
+                "Surface-to-Air Missile (SAM) systems",
+                "Anti-aircraft artillery",
+                "Storage bunkers for munitions",
+                "Radar-guided defense systems"
+            ],
+            "key_observations": [
+                "Cluster of 6+ missile silos with central command infrastructure",
+                "Integrated radar installations for airspace monitoring",
+                "Dedicated barracks and logistics hubs for troop deployment",
+                "Multi-layered perimeter defenses (walls, guard towers, sensors)",
+                "Proximity to Aswan Dam (strategic infrastructure protection role)"
+            ],
+            "conclusion": "High-capacity military base designed for regional air defense, power projection, and critical infrastructure security in southern Egypt.",
+            "threat_level": "high",
+            "recommended_attack_route": [
+                "Nighttime stealth airstrike from Libyan airspace to exploit radar blind spots",
+                "Disrupt supply convoys on Aswan highway using precision-guided munitions",
+                "Deploy electronic warfare systems to jam SAM radar coordination",
+                "Infiltrate via Nile River using special forces to sabotage fuel depots",
+                "Launch decoy drones from Sudan border to overload air defense networks"
+            ]
+        }
+    },
+    "38.50285779743661,124.8657191581862": {
+        "latitude": 38.50285779743661,
+        "longitude": 124.8657191581862,
+        "findings": [
+            [
+                "Pier with several naval vessels docked along its length.",
+                "Buildings and structures on the mainland adjacent to the pier, likely support facilities for the naval base.",
+                "Fortified structures or bunkers on the smaller island (Mubur-yom) at the end of the pier.",
+                "Possible coastal defense emplacements on the island.",
+                "Possible administrative buildings and open storage areas on the mainland.",
+                "Possible naval armament on the vessels",
+                "Possible radars on the vessels",
+                "Possible coastal defense on the pier",
+                "Possible small arms on the pier"
+            ],
+            [
+                "Pier with multiple naval vessels docked",
+                "Buildings and structures on the mainland adjacent to the pier",
+                "Fortified structure/bunker on Mubur-yom island",
+                "Possible coastal defense emplacements on Mubur-yom island",
+                "Possible administrative buildings and open storage areas on the mainland",
+                "Naval vessels of varying sizes and potentially different roles (patrol, coastal defense)",
+                "Possible coastal defense on the pier",
+                "A complex of buildings near the pier, potentially for administration or logistics",
+                "Possible secured area in the complex of buildings",
+                "Possible maintenance of building on the pier"
+            ],
+            [
+                "Pier with multiple naval vessels docked.",
+                "Buildings and structures on the mainland adjacent to the pier, including possible administrative buildings.",
+                "Fortified structure/bunker on Mubur-yom island.",
+                "Possible coastal defense emplacements on Mubur-yom island.",
+                "Naval vessels of varying sizes and potentially different roles (patrol, coastal defense).",
+                "Possible coastal defense on the pier."
+            ],
+            [
+                "Pier with multiple naval vessels docked (likely warships).",
+                "Buildings and structures on the mainland adjacent to the pier, including possible administrative buildings and support facilities.",
+                "Fortified structure/bunker on Mubur-yom island (likely coastal defense).",
+                "Possible coastal defense emplacements on Mubur-yom island (gun or missile sites).",
+                "Naval vessels of varying sizes (possibly missile boats, patrol boats, or smaller warships).",
+                "Possible coastal defense on the pier (gun emplacements or missile launchers).",
+                "Defensive barriers along pier.",
+                "Open storage areas on main land possibly for supplies or missile systems."
+            ],
+            [
+                "Pier with multiple naval vessels docked, likely warships.",
+                "Buildings and structures on the mainland adjacent to the pier, including possible administrative buildings and support facilities.",
+                "Possible coastal defense emplacements on the pier.",
+                "Naval vessels of varying sizes (possibly missile boats, patrol boats, or smaller warships).",
+                "Defensive barriers along the pier."
+            ],
+            [
+                "Pier with multiple naval vessels docked.",
+                "Various buildings and structures on the mainland adjacent to the pier.",
+                "Possible coastal defense emplacements along the pier.",
+                "Naval vessels of varying sizes, including possible missile boats and patrol boats.",
+                "Defensive barriers or structures along the pier.",
+                "A number of military vessels are present; approximately 9 vessels of varying sizes are docked at the pier.",
+                "The pier is constructed of concrete with large tetrapod breakwaters along its seaward side."
+            ],
+            [
+                "Pier structure with multiple naval vessels docked.",
+                "Approximately 9 vessels of varying sizes, possibly including missile boats and patrol boats.",
+                "Concrete pier construction with tetrapod breakwaters along the seaward side.",
+                "Buildings and structures on the mainland adjacent to the pier.",
+                "Possible coastal defense emplacements along the pier.",
+                "Defensive barriers or structures along the pier."
+            ],
+            [
+                "Pier structure with multiple naval vessels docked.",
+                "Approximately 9 naval vessels of varying sizes, including possible missile boats and patrol boats.",
+                "Concrete pier construction with tetrapod breakwaters along the seaward side.",
+                "Buildings and structures on the mainland adjacent to the pier.",
+                "Possible coastal defense emplacements along the pier.",
+                "Defensive barriers or structures along the pier."
+            ]
+        ],
+        "deepseek_summary": {
+            "country": "North Korea",
+            "army": "Korean People's Army",
+            "base_type": "mixed",
+            "access_routes": [
+                "Coastal road from Nampo to the site (southwest direction)",
+                "Marine access via Yellow Sea (western approach)"
+            ],
+            "special_weapon": [
+                "Missile launchers",
+                "Coastal artillery",
+                "Anti-ship missiles",
+                "Defensive radar systems"
+            ],
+            "key_observations": [
+                "Concrete pier with tetrapod breakwaters for coastal protection",
+                "Multiple naval vessels, including missile and patrol boats",
+                "Fortified bunkers on Mubur-yom Island",
+                "Open storage areas for munitions or supplies",
+                "Defensive barriers along the pier",
+                "Potential radar installations on vessels and land",
+                "Administrative buildings for logistics and command"
+            ],
+            "conclusion": "A strategically vital coastal defense and naval base, equipped to project power in the Yellow Sea and protect North Korea's western coastline. The mix of offensive and defensive capabilities suggests readiness for both deterrence and rapid response.",
+            "threat_level": "high",
+            "recommended_attack_routes": [
+                "Airstrike from the northeast to bypass coastal defenses on Mubur-yom Island.",
+                "Submarine-launched cruise missiles targeting the pier's structural weak points.",
+                "Electronic warfare to disable radar and communication systems prior to engagement.",
+                "Amphibious assault from the eastern landward side to exploit weaker terrestrial defenses.",
+                "Coordinated drone swarms to overwhelm air defenses and target storage facilities."
+            ]
+        }
+    },
+    "24.05408032725783,32.81511415564729": {
+        "latitude": 24.05408032725783,
+        "longitude": 32.81511415564729,
+        "findings": [
+            [
+                "Several circular structures likely related to anti-aircraft missile systems.",
+                "A compound with multiple buildings, possibly barracks or command centers.",
+                "A longer building which is probably a warehouse or storage facility.",
+                "Several smaller buildings that may be guard posts or support structures.",
+                "Evidence of graded roads connecting the different parts of the facility.",
+                "Possible vehicle parking areas.",
+                "Defense positions",
+                "Fortification"
+            ],
+            [
+                "Circular structures indicative of anti-aircraft missile systems (possibly SAM sites).",
+                "A compound consisting of multiple buildings, likely serving as barracks or command centers.",
+                "A large, rectangular building which is probably a warehouse or storage facility.",
+                "Several smaller buildings, which could be guard posts or support structures.",
+                "Graded roads connecting different sections of the facility.",
+                "Potential vehicle parking areas.",
+                "Possible vehicle shelters or maintenance areas.",
+                "Possible fortification or defense positions.",
+                "Possible Radar systems."
+            ],
+            [
+                "Six circular structures consistent with potential Surface-to-Air Missile (SAM) sites, each possibly containing missile launchers and associated radar/fire control systems.",
+                "A main compound with multiple buildings, likely serving as command centers, barracks, and administrative facilities.",
+                "Large rectangular buildings, possibly warehouses or storage facilities.",
+                "Smaller buildings that may serve as guard posts, support structures, or maintenance sheds.",
+                "A network of graded roads connecting different sections of the facility.",
+                "Vehicle parking areas.",
+                "Possible vehicle shelters or maintenance areas.",
+                "Possible fortification or defense positions.",
+                "An installation with a grid structure, suggesting a possible radar system or a communications array.",
+                "An external building surrounded by trees"
+            ],
+            [
+                "Six circular structures consistent with potential Surface-to-Air Missile (SAM) sites.",
+                "A main compound with multiple buildings, likely serving as command centers, barracks, and administrative facilities.",
+                "Large rectangular buildings, possibly warehouses or storage facilities.",
+                "Smaller buildings that may serve as guard posts, support structures, or maintenance sheds.",
+                "A network of graded roads connecting different sections of the facility.",
+                "Vehicle parking areas.",
+                "Possible vehicle shelters or maintenance areas.",
+                "Possible fortification or defense positions.",
+                "An installation with a grid structure, suggesting a possible radar system or a communications array.",
+                "An external building surrounded by trees"
+            ],
+            [
+                "Six circular structures consistent with potential Surface-to-Air Missile (SAM) sites.",
+                "A main compound with multiple buildings, likely serving as command centers, barracks, and administrative facilities.",
+                "Large rectangular buildings, possibly warehouses or storage facilities.",
+                "Smaller buildings that may serve as guard posts, support structures, or maintenance sheds.",
+                "A network of graded roads connecting different sections of the facility.",
+                "Vehicle parking areas.",
+                "Possible vehicle shelters or maintenance areas.",
+                "Possible fortification or defense positions."
+            ],
+            [
+                "Six circular structures resembling Surface-to-Air Missile (SAM) sites.",
+                "A main compound with several buildings, likely for command, barracks, or administration.",
+                "Large rectangular buildings that might be warehouses or storage facilities.",
+                "Smaller buildings potentially serving as guard posts or support structures.",
+                "Graded roads connecting different parts of the facility.",
+                "Vehicle parking areas.",
+                "Possible vehicle shelters or maintenance areas.",
+                "Possible fortification or defensive positions.",
+                "Potential radar installation or communications array."
+            ],
+            [
+                "Six circular structures resembling Surface-to-Air Missile (SAM) sites.",
+                "A main compound with several buildings, likely for command, barracks, or administration.",
+                "Large rectangular buildings that might be warehouses or storage facilities.",
+                "Smaller buildings potentially serving as guard posts or support structures.",
+                "Graded roads connecting different parts of the facility.",
+                "Vehicle parking areas.",
+                "Possible vehicle shelters or maintenance areas.",
+                "Possible fortification or defensive positions.",
+                "Potential radar installation or communications array."
+            ],
+            [
+                "Several circular structures resembling potential SAM (Surface-to-Air Missile) sites.",
+                "A main compound consisting of several buildings, potentially for command, administration, or barracks.",
+                "Large rectangular buildings that might serve as warehouses or storage facilities.",
+                "Smaller buildings that could be guard posts or support structures.",
+                "Dirt or graded roads connecting various parts of the facility.",
+                "Designated vehicle parking areas.",
+                "Possible vehicle shelters or maintenance areas.",
+                "A U-shaped defensive structure or fortification.",
+                "Potential radar installation or communications array.",
+                "Helipad"
+            ]
+        ],
+        "deepseek_summary": {
+            "country": "Egypt",
+            "army": "Egyptian Armed Forces",
+            "base_type": "mixed",
+            "access_routes": [
+                "Southern graded road from Aswan Highway",
+                "Northern access via desert track from Lake Nasser",
+                "Eastern paved road connecting to Nile Valley waterways",
+                "Western dirt paths from remote desert regions"
+            ],
+            "special_weapons": [
+                "Surface-to-Air Missile (SAM) systems",
+                "Radar systems"
+            ],
+            "key_observations": [
+                "Six circular SAM sites with possible missile launchers and radar/fire control systems",
+                "Main compound housing command centers, barracks, and administrative facilities",
+                "Large rectangular warehouses and storage facilities for logistics",
+                "Network of graded roads for rapid internal mobility",
+                "Defensive fortifications including U-shaped structures and guard posts",
+                "Grid-structured installation indicating radar or communications arrays",
+                "Vehicle parking areas and shelters for maintenance",
+                "Helipad for aerial operations"
+            ],
+            "conclusion": "A strategically significant mixed-use military base combining air defense (SAMs, radar), command/logistics infrastructure, and forward fortifications. Likely protects critical southern regions near Lake Nasser and the Sudanese border.",
+            "threat_level": "high",
+            "recommended_attack_routes": [
+                "Execute night-time SEAD (Suppression of Enemy Air Defenses) operations to neutralize radar and SAM sites prior to main assaults.",
+                "Use low-altitude terrain-following aircraft approaching from the southwest to evade radar detection, exploiting desert topography.",
+                "Deploy electronic warfare systems to disrupt communications between command centers and SAM installations.",
+                "Launch coordinated ground assaults from multiple directions (north, east, west) to overwhelm defensive positions and isolate the main compound.",
+                "Prioritize strikes on vehicle shelters and fuel depots to cripple logistical resilience.",
+                "Utilize precision-guided munitions on the U-shaped fortifications and helipad to limit counterattack capabilities."
+            ]
+        }
+    },
+    "24.12545988092725,32.91938243013479": {
+        "latitude": 24.12545988092725,
+        "longitude": 32.91938243013479,
+        "findings": [
+            [
+                "Multiple circular structures possibly used for missile defense systems or radar installations.",
+                "Central complex with multiple buildings, likely serving as command and control or administrative facilities.",
+                "Road network connecting different parts of the base.",
+                "Possible storage or maintenance areas.",
+                "Possible anti aircraft systems that are placed in circle position."
+            ],
+            [
+                "Multiple circular structures with internal partitions, possibly radar installations or missile defense systems.",
+                "Central complex with multiple buildings, likely serving as command and control or administrative facilities.",
+                "Road network connecting the circular structures to the central complex and other support areas.",
+                "Support facilities including what appear to be storage areas and maintenance buildings. Near the main complex seems to be additional buildings.",
+                "Possible earth berms around the circular structures suggest defensive positions.",
+                "Possible radar domes within the circular structures.",
+                "There is a complex that might be anti-aircraft systems.",
+                "Possible bunkers or underground facilities within the main complex."
+            ],
+            [
+                "Multiple circular structures with internal partitions.",
+                "Central complex with multiple buildings.",
+                "Road network connecting the circular structures to the central complex and other support areas.",
+                "Support facilities, including what appear to be storage areas and maintenance buildings.",
+                "Possible earth berms around the circular structures.",
+                "Possible radar domes within the circular structures."
+            ],
+            [
+                "Multiple circular launch sites arranged around a central complex.",
+                "Each launch site contains a structure resembling a missile launching system or radar array.",
+                "Central complex includes buildings, possible command and control facilities.",
+                "Road network connecting the launch sites to the central complex.",
+                "Earth berms or walls surrounding the launch sites for protection.",
+                "Possible storage facilities or maintenance buildings.",
+                "Radar Domes inside the circular structures.",
+                "Launch control system."
+            ],
+            [
+                "Multiple circular launch sites arranged in a radial pattern around a central complex.",
+                "Each launch site contains what appear to be missile launching systems or large radar arrays.",
+                "The central complex includes several buildings, likely command and control facilities and living quarter.",
+                "A network of roads connects the launch sites to the central complex.",
+                "Earth berms or protective walls surround each launch site, presumably for protection against explosions or attacks.",
+                "Possible storage facilities or maintenance buildings are present within the complex.",
+                "Presence of dome-shaped structures within the circular sites, which are likely radar domes providing missile guidance or early warning capabilities.",
+                "Potential launch control systems located within the central complex."
+            ],
+            [
+                "Multiple circular launch sites arranged in a radial pattern around a central complex.",
+                "Each launch site contains missile launching systems or large radar arrays.",
+                "Central complex includes buildings, likely command and control facilities and living quarters.",
+                "Network of roads connects the launch sites to the central complex.",
+                "Earth berms or protective walls surround each launch site.",
+                "Possible storage facilities or maintenance buildings within the complex.",
+                "Dome-shaped structures within the circular sites, likely radar domes providing missile guidance or early warning capabilities.",
+                "Potential launch control systems located within the central complex."
+            ],
+            [
+                "Multiple circular launch sites arranged in a radial pattern around a central complex.",
+                "Each launch site contains what appear to be missile launching systems or large radar arrays.",
+                "Central complex includes buildings, likely command and control facilities and living quarters.",
+                "Network of roads connects the launch sites to the central complex.",
+                "Earth berms or protective walls surround each launch site.",
+                "Possible storage facilities or maintenance buildings within the complex.",
+                "Dome-shaped structures within the circular sites, likely radar domes providing missile guidance or early warning capabilities.",
+                "Potential launch control systems located within the central complex."
+            ],
+            [
+                "Central complex with multiple buildings and infrastructure.",
+                "Six circular launch sites arranged radially around the central complex.",
+                "Each launch site contains possible missile launching systems or large radar arrays.",
+                "Network of roads connecting the launch sites to the central complex.",
+                "Protective walls/berms surrounding each launch site.",
+                "Possible storage or maintenance facilities within the complex.",
+                "Dome-shaped structures within the circular sites, potentially radar domes.",
+                "Possible aircraft/drones in some circular positions"
+            ]
+        ],
+        "deepseek_summary": {
+            "country": "Egypt",
+            "army": "Egyptian Armed Forces",
+            "base_type": "offensive",
+            "access_routes": [
+                "Radial paved roads (north, east, south, west) connecting central complex to launch sites",
+                "Internal road network linking storage/maintenance areas to central complex"
+            ],
+            "special_weapons": [
+                "Missile launching systems",
+                "Radar domes (missile guidance/early warning)",
+                "Anti-aircraft systems",
+                "Launch control systems",
+                "Potential underground bunkers"
+            ],
+            "key_observations": [
+                "Six circular launch sites arranged radially around central command complex",
+                "Earth berms/protective walls around launch sites for blast/attack mitigation",
+                "Dome-shaped structures within circular sites indicating radar installations",
+                "Central complex with command/control facilities, living quarters, and storage/maintenance buildings",
+                "Road network optimized for rapid logistical support and missile deployment"
+            ],
+            "conclusion": "A high-priority offensive missile base with integrated radar guidance, command infrastructure, and hardened defenses, strategically positioned for regional strike capability.",
+            "threat_level": "high",
+            "recommended_attack_routes": [
+                "Simultaneous precision strikes on central command complex and radar domes to cripple coordination and guidance",
+                "Multi-axis saturation attacks on launch sites using stealth munitions to bypass anti-aircraft systems",
+                "Disrupt power/logistics via targeted strikes on maintenance buildings and road junctions",
+                "Employ electronic warfare to blind radar before deploying bunker-busters against fortified structures",
+                "Use decoy drones to draw defensive fire, then penetrate weak points in berms from southern/northwestern sectors"
+            ]
+        }
+    },
+    "37.085,127.03083": {
+        "latitude": 37.085,
+        "longitude": 127.03083,
+        "findings": [
+            [
+                "Barracks or similar housing structures.",
+                "Administrative or office buildings.",
+                "Maintenance facilities.",
+                "Warehouses and storage buildings.",
+                "Motor pool/vehicle parking areas.",
+                "Sports fields (track and soccer field).",
+                "Security fences and checkpoints.",
+                "Aircraft present (likely support or transport).",
+                "Possible training areas.",
+                "Library.",
+                "Multiple parking lots.",
+                "Road infrastructure",
+                "Open areas that might be used for tactical training or equipment deployment.",
+                "Multiple buildings with consistent architectural styles, possibly indicating specific functions or unit designations.",
+                "Potential fuel or supply storage areas."
+            ],
+            [
+                "Barracks or similar housing structures.",
+                "Administrative or office buildings.",
+                "Maintenance facilities.",
+                "Warehouses and storage buildings.",
+                "Motor pool/vehicle parking areas.",
+                "Sports fields (track and soccer field).",
+                "Security fences and checkpoints.",
+                "Aircraft present (likely support or transport).",
+                "Possible training areas.",
+                "Multiple parking lots.",
+                "Road infrastructure.",
+                "Open areas that might be used for tactical training or equipment deployment.",
+                "Multiple buildings with consistent architectural styles, possibly indicating specific functions or unit designations.",
+                "Potential fuel or supply storage areas.",
+                "Several aircraft on what appears to be a small flightline or static display area"
+            ],
+            [
+                "Barracks or similar housing structures",
+                "Administrative or office buildings",
+                "Maintenance facilities",
+                "Warehouses and storage buildings",
+                "Motor pool/vehicle parking areas",
+                "Security fences and checkpoints",
+                "Aircraft present (likely support or transport)",
+                "Multiple parking lots",
+                "Road infrastructure",
+                "Open areas that might be used for tactical training or equipment deployment",
+                "Multiple buildings with consistent architectural styles, possibly indicating specific functions or unit designations",
+                "Potential fuel or supply storage areas",
+                "Several aircraft on what appears to be a small flightline or static display area",
+                "Possible training areas"
+            ],
+            [
+                "Barracks or similar housing structures",
+                "Administrative or office buildings",
+                "Maintenance facilities",
+                "Warehouses and storage buildings",
+                "Motor pool/vehicle parking areas",
+                "Security fences and checkpoints",
+                "Aircraft present (likely support or transport)",
+                "Multiple parking lots",
+                "Road infrastructure",
+                "Open areas that might be used for tactical training or equipment deployment",
+                "Multiple buildings with consistent architectural styles, possibly indicating specific functions or unit designations",
+                "Potential fuel or supply storage areas",
+                "Several aircraft on what appears to be a small flightline or static display area"
+            ],
+            [
+                "Barracks or similar housing structures",
+                "Administrative or office buildings",
+                "Maintenance facilities",
+                "Warehouses and storage buildings",
+                "Motor pool/vehicle parking areas",
+                "Security fences and checkpoints",
+                "Aircraft present (likely support or transport)",
+                "Multiple parking lots",
+                "Road infrastructure",
+                "Open areas that might be used for tactical training or equipment deployment",
+                "Multiple buildings with consistent architectural styles, possibly indicating specific functions or unit designations",
+                "Potential fuel or supply storage areas",
+                "Several aircraft on what appears to be a small flightline or static display area"
+            ],
+            [
+                "Barracks or similar housing structures",
+                "Administrative or office buildings",
+                "Maintenance facilities",
+                "Warehouses and storage buildings",
+                "Motor pool/vehicle parking areas",
+                "Security fences and checkpoints",
+                "Aircraft present (likely support or transport)",
+                "Multiple parking lots",
+                "Road infrastructure",
+                "Open areas that might be used for tactical training or equipment deployment",
+                "Multiple buildings with consistent architectural styles, possibly indicating specific functions or unit designations",
+                "Potential fuel or supply storage areas",
+                "Several aircraft on what appears to be a small flightline or static display area"
+            ],
+            [
+                "Barracks or similar housing structures",
+                "Administrative or office buildings",
+                "Maintenance facilities",
+                "Warehouses and storage buildings",
+                "Motor pool/vehicle parking areas",
+                "Security fences and checkpoints",
+                "Aircraft present (likely support or transport)",
+                "Multiple parking lots",
+                "Road infrastructure",
+                "Open areas that might be used for tactical training or equipment deployment",
+                "Multiple buildings with consistent architectural styles, possibly indicating specific functions or unit designations",
+                "Potential fuel or supply storage areas",
+                "Several aircraft on what appears to be a small flightline or static display area",
+                "Possible aircraft static displays or non-operational aircraft.",
+                "Helipad markings observed."
+            ],
+            [
+                "Barracks or similar housing structures",
+                "Administrative or office buildings",
+                "Maintenance facilities",
+                "Warehouses and storage buildings",
+                "Motor pool/vehicle parking areas",
+                "Security fences and checkpoints",
+                "Aircraft present (likely support or transport)",
+                "Multiple parking lots",
+                "Road infrastructure",
+                "Open areas that might be used for tactical training or equipment deployment",
+                "Multiple buildings with consistent architectural styles, possibly indicating specific functions or unit designations",
+                "Potential fuel or supply storage areas",
+                "Several aircraft on what appears to be a small flightline or static display area",
+                "Possible aircraft static displays or non-operational aircraft.",
+                "Helipad markings observed.",
+                "Aircraft (possibly F-4 or similar)",
+                "Possible training grounds"
+            ]
+        ],
+        "deepseek_summary": {
+            "country": "South Korea",
+            "army": "South Korean Armed Forces",
+            "base_type": "mixed",
+            "access_route": [
+                "Road infrastructure (local highways and service roads near 37.085, 127.03083)"
+            ],
+            "special_weapon": [
+                "F-4 Phantom or similar aircraft",
+                "Helipad",
+                "Fuel storage facilities"
+            ],
+            "key_observation": [
+                "Consistent architectural design across multiple functional buildings (barracks, admin, maintenance, warehouses)",
+                "Security checkpoints and fencing for perimeter defense",
+                "Dedicated training areas for tactical operations and equipment deployment",
+                "Extensive vehicle and aircraft parking infrastructure",
+                "Fuel and logistics storage for sustained operations",
+                "Helipad and potential static aircraft displays"
+            ],
+            "conclusion": "A mixed-use military base supporting air operations, logistics, and training, critical for regional defense and rapid deployment capabilities in South Korea.",
+            "threat_level": "high",
+            "recommended_attack_route": [
+                "Conduct precision airstrikes targeting the airfield to disable aircraft and runway operations.",
+                "Disrupt fuel storage facilities to trigger secondary explosions and cripple supply chains.",
+                "Deploy ground forces from the northern approach to exploit terrain cover and breach perimeter defenses.",
+                "Use electronic warfare to jam communications and disrupt command coordination.",
+                "Sabotage key road infrastructure to block reinforcements and isolate the base during the assault."
+            ]
+        }
+    },
+    "54.93517217983672,19.98035667527419": {
+        "latitude": 54.93517217983672,
+        "longitude": 19.98035667527419,
+        "findings": [
+            [
+                "Multiple helicopters are visible, distributed across the base.",
+                "There is a runway or landing strip marked with '02'.",
+                "Several rectangular structures or hangars are present, possibly for aircraft maintenance or storage.",
+                "Roads and taxiways connect the various areas of the base.",
+                "Presence of a building or complex of buildings near the Naval Helicopter Air Base marking",
+                "Some helipads are arranged in a curved/semi-circular pattern."
+            ],
+            [
+                "Multiple helicopters are present on the base.",
+                "A runway/landing strip marked '02' is visible.",
+                "Several rectangular structures or hangars are present.",
+                "Roads and taxiways connect the different areas.",
+                "Buildings/complex near the named location marker (Naval Helicopter Air Base).",
+                "Helicopter pads arranged in a curved pattern."
+            ],
+            [
+                "Multiple helicopters are present, with identifiable rotor outlines suggesting they are parked or stored at designated spots.",
+                "A runway is present, marked with '02', likely indicating its orientation or designation.",
+                "Several rectangular structures resembling hangars, which could house or maintain helicopters.",
+                "Extensive road and taxiway network connecting different parts of the base, allowing for efficient movement.",
+                "Buildings/complex near the named location marker (Naval Helicopter Air Base).",
+                "Helicopter pads arranged in a curved pattern.",
+                "Helicopters are of different sizes",
+                "Possible storage bunkers with camouflage netting"
+            ],
+            [
+                "Multiple helicopters are observed, parked or stored in designated spots.",
+                "A runway is present, marked with '02'.",
+                "Several rectangular structures resembling hangars.",
+                "Extensive road and taxiway network.",
+                "Buildings/complex near the Naval Helicopter Air Base marker.",
+                "Helicopter pads arranged in a curved pattern.",
+                "Possible storage bunkers with camouflage netting."
+            ],
+            [
+                "Multiple helicopters parked in designated spots, likely naval variants.",
+                "A runway is present, marked with '02'. This suggests possible fixed-wing aircraft operations or support for helicopter operations.",
+                "Several rectangular structures resembling hangars, likely used for aircraft maintenance and storage.",
+                "Extensive road and taxiway network, facilitating movement of vehicles and aircraft.",
+                "Helicopter pads arranged in a curved pattern, possibly for training or operational readiness.",
+                "Identifiable administrative or support buildings.",
+                "Possible storage bunkers along the sides of the aircraft parkings",
+                "Defense surface to air system",
+                "Radar position for surface to air system"
+            ],
+            [
+                "Multiple helicopters parked in designated areas.",
+                "Runway marked with '02'.",
+                "Several rectangular structures resembling hangars.",
+                "Extensive road and taxiway network.",
+                "Helicopter pads arranged in a curved pattern.",
+                "Identifiable administrative or support buildings.",
+                "Possible storage bunkers",
+                "Possible air defense positions."
+            ],
+            [
+                "Multiple helicopters parked in designated parking spots,likely naval helicopters.",
+                "Runway marked with '02' indicating its orientation.",
+                "Numerous rectangular structures resembling hangars or maintenance buildings.",
+                "Extensive road and taxiway network for ground movement of aircraft and vehicles.",
+                "Helicopter pads arranged in a curved pattern, potentially for operational readiness or training.",
+                "Administrative or support buildings likely for base operations and personnel.",
+                "Possible storage bunkers for ammunition or fuel.",
+                "Possible air defense positions around the perimeter.",
+                "Possible electronic warfare positions."
+            ],
+            [
+                "Multiple helicopters parked in designated parking spots, likely naval helicopters.",
+                "Runway marked with '02' indicating its orientation.",
+                "Numerous rectangular structures resembling hangars or maintenance buildings.",
+                "Extensive road and taxiway network for ground movement of aircraft and vehicles.",
+                "Helicopter pads arranged in a curved pattern, potentially for operational readiness or training.",
+                "Administrative or support buildings likely for base operations and personnel.",
+                "Helicopters with rotors visible on stands.",
+                "Possible storage bunkers for ammunition or fuel.",
+                "Possible air defense positions around the perimeter.",
+                "Possible electronic warfare positions."
+            ]
+        ],
+        "deepseek_summary": {
+            "country": "Russia",
+            "army": "Russian Navy (Baltic Fleet)",
+            "base_type": "mixed",
+            "access_routes": [
+                "Highway A217 from Kaliningrad (southwest)",
+                "Baltic Sea coastline (north)",
+                "Railway line connecting to Chernyakhovsk (east)",
+                "Taxiways connecting hangars to runway '02'",
+                "Coastal road along Vistula Lagoon (west)"
+            ],
+            "special_weapons": [
+                "Surface-to-air missile (SAM) systems",
+                "Electronic warfare positions",
+                "Camouflaged ammunition/fuel bunkers",
+                "Radar systems for air defense"
+            ],
+            "key_observations": [
+                "Naval helicopters with rotors visible, suggesting operational readiness",
+                "Runway '02' indicating fixed-wing aircraft support capability",
+                "Extensive taxiway network for rapid aircraft mobilization",
+                "Curved helipad arrangement for training or quick deployment",
+                "Storage bunkers with camouflage near aircraft parking areas",
+                "Perimeter air defense positions and radar installations",
+                "Administrative complexes for logistical and personnel support"
+            ],
+            "conclusion": "A strategically critical naval air base supporting helicopter and fixed-wing operations, enabling regional power projection and defense coordination in the Baltic Sea. Its SAM systems and electronic warfare capabilities pose a significant threat to aerial incursions.",
+            "threat_level": "high",
+            "recommended_attack_routes": [
+                "Conduct SEAD (Suppression of Enemy Air Defenses) strikes from the northeast using stealth aircraft to neutralize SAM sites and radar.",
+                "Amphibious assault from the Baltic Sea (north) to secure coastal defenses while airborne troops target command buildings.",
+                "Sabotage key infrastructure via cyberattacks on air traffic control and communication systems prior to physical engagement.",
+                "Launch diversionary ground forces along Highway A217 (southwest) to draw attention from primary strikes.",
+                "Deploy precision-guided munitions from submarines in the Vistula Lagoon (west) to destroy fuel/ammunition bunkers."
+            ]
+        }
+    },
+    "54.76832494873853,20.39555058252703": {
+        "latitude": 54.76832494873853,
+        "longitude": 20.39555058252703,
+        "findings": [
+            [
+                "Airfield/runway",
+                "Military aircraft (likely fighter jets)",
+                "Apron/parking area",
+                "Possible building/storage structure",
+                "Roads"
+            ],
+            [
+                "Airfield/runway",
+                "Military aircraft (likely fighter jets)",
+                "Apron/parking area",
+                "Possible building/storage structure",
+                "Roads",
+                "Possible command and control center building.",
+                "Storage bunkers for ammunition and fuel."
+            ],
+            [
+                "Airfield/runway",
+                "Military aircraft (likely fighter jets) - Possible MiG-29 or Su-27",
+                "Apron/parking area",
+                "Possible building/storage structure",
+                "Roads",
+                "Possible command and control center building",
+                "Three small buildings that look like guard posts",
+                "Damaged building - Could be a possible storage for military equipment",
+                "Several aircraft dispersed on the airfield"
+            ],
+            [
+                "Airfield/runway",
+                "Two military aircraft (likely fighter jets) - Possible MiG-29 or Su-27",
+                "Apron/parking area",
+                "Possible building/storage structure",
+                "Roads",
+                "Damaged building - Could be a possible storage for military equipment",
+                "Three small buildings that look like guard posts"
+            ],
+            [
+                "Airfield/runway",
+                "Two military aircraft (likely fighter jets)",
+                "Apron/parking area",
+                "Possible building/storage structure",
+                "Roads",
+                "Damaged building",
+                "Three small buildings that look like guard posts"
+            ],
+            [
+                "Airfield/runway",
+                "Two military aircraft (likely fighter jets)",
+                "Apron/parking area",
+                "Possible building/storage structure",
+                "Roads",
+                "Damaged building",
+                "Three small buildings that look like guard posts"
+            ],
+            [
+                "Airfield/runway",
+                "Two military aircraft (likely fighter jets)",
+                "Apron/parking area",
+                "Possible building/storage structure",
+                "Roads",
+                "Damaged building",
+                "Three small buildings that look like guard posts",
+                "Taxiways connecting the runway to the apron area"
+            ],
+            [
+                "Airfield/runway",
+                "Two military aircraft (likely fighter jets)",
+                "Apron/parking area",
+                "Possible damaged building/storage structure",
+                "Roads",
+                "Taxiways connecting the runway to the apron area"
+            ]
+        ],
+        "deepseek_summary": {
+            "country": "Russia",
+            "army": "Russian Armed Forces",
+            "base_type": "mixed",
+            "access_routes": [
+                "Roads from the east (paved military access roads)",
+                "Roads from the west (secondary supply routes)",
+                "Taxiways connecting runway to apron areas"
+            ],
+            "special_weapons": [
+                "MiG-29/Su-27 fighter jets"
+            ],
+            "key_observations": [
+                "Airfield/runway with taxiways for rapid aircraft deployment",
+                "Multiple military aircraft (likely MiG-29/Su-27) dispersed on apron/parking areas",
+                "Possible command and control center for operational coordination",
+                "Three guard posts indicating perimeter security",
+                "Storage bunkers for ammunition and fuel",
+                "Damaged building potentially repurposed for equipment storage"
+            ],
+            "conclusion": "A strategic Russian airbase in Kaliningrad Oblast with offensive capabilities, supporting regional power projection via fighter jets and integrated logistics. Its location enables rapid response across the Baltic region.",
+            "threat_level": "high",
+            "recommended_attack_routes": [
+                "Launch precision strikes from the northeast to neutralize the command and control center, exploiting potential radar blind spots.",
+                "Simultaneously target runway intersections and taxiways with bunker-buster munitions to cripple aircraft mobility.",
+                "Deploy SEAD operations from the southwest to suppress air defenses before striking fuel and ammunition bunkers.",
+                "Send ground teams via western roads under airborne cover to dismantle guard posts and disrupt perimeter defenses.",
+                "Conduct coordinated cyber-electronic warfare to disable communications, followed by drone swarms to target dispersed aircraft."
+            ]
+        }
+    },
+    "27.15183914776903,31.14947908199206": {
+        "latitude": 27.15183914776903,
+        "longitude": 31.14947908199206,
+        "findings": [
+            [
+                "Circular structures of varying sizes, possibly containing radar or communication equipment.",
+                "Several buildings and rectangular structures, likely housing facilities, barracks, or administrative offices.",
+                "A linear arrangement of structures that might be vehicle parking or storage areas.",
+                "A possible runway or landing strip marked with painted lines.",
+                "Fortifications or earthworks.",
+                "A set of buildings and some circular patterns.",
+                "Rows of what may be transport vehicles of a similar size."
+            ],
+            [
+                "Circular structures of varying sizes, possibly containing radar or communication equipment.",
+                "Several buildings and rectangular structures, likely housing facilities, barracks, or administrative offices.",
+                "A linear arrangement of structures that might be vehicle parking or storage areas.",
+                "A possible runway or landing strip marked with painted lines.",
+                "Fortifications or earthworks.",
+                "A set of buildings and some circular patterns.",
+                "Rows of what may be transport vehicles of a similar size."
+            ],
+            [
+                "Multiple circular structures of varying sizes, possibly radar or communication equipment.",
+                "Numerous buildings and rectangular structures likely for housing, barracks, or administrative offices.",
+                "Linear arrangements of structures possibly for vehicle parking or storage.",
+                "A runway or landing strip marked with painted lines.",
+                "Fortifications or earthworks present.",
+                "Possible test stands or specialized research areas evidenced by unique layouts and structures.",
+                "Rows of transport vehicles of a similar size.",
+                "Potential command and control center with unique structural features.",
+                "Evidence of a sophisticated defense system due to the fortification and structured layout."
+            ],
+            [
+                "Multiple circular structures (likely radar or communication arrays)",
+                "Centralized buildings and rectangular structures (possibly housing, barracks, administrative offices, or laboratories)",
+                "Linear arrangements of structures (potential vehicle parking or storage areas)",
+                "Small scale target practice zones or testing areas (based on the partial circle arrangements )",
+                "Possible command and control center based on central location and unique structural features"
+            ],
+            [
+                "Multiple circular structures, potentially radar or communication arrays.",
+                "Centralized buildings and rectangular structures, possibly housing, barracks, or administrative offices.",
+                "Linear arrangements of structures, potentially vehicle parking or storage areas.",
+                "Arrangements of partial circles, suggesting small-scale target practice zones or testing areas.",
+                "Central building complex with distinctive features indicating a possible command and control center.",
+                "Large red-striped structure, potentially a high-value target or related to missile testing.",
+                "Possible missile launch sites within circular arrays."
+            ],
+            [
+                "Multiple circular structures likely related to radar or communication arrays.",
+                "Centralized buildings and rectangular structures possibly for housing, barracks, or administrative offices.",
+                "Linear arrangements of structures, potentially vehicle parking or storage areas.",
+                "Arrangements of partial circles, suggesting small-scale target practice zones or testing areas.",
+                "Central building complex possibly a command and control center.",
+                "Large red-striped structure, potentially a high-value target or related to missile testing.",
+                "Presence of what appear to be aircrafts inside some of the circular arrangements of partial circles,suggesting that this part is related to air force.",
+                "Possible missile launch sites within circular arrays."
+            ],
+            [
+                "Multiple circular structures, likely radar or communication arrays.",
+                "Aircraft present within some circular structures.",
+                "Centralized buildings and rectangular structures, possibly for housing, barracks, or administrative offices.",
+                "Linear arrangements of structures, potentially vehicle parking or storage areas.",
+                "Arrangements of partial circles, suggesting small-scale target practice zones or testing areas.",
+                "Central building complex, possibly a command and control center.",
+                "Large red-striped structure (potential high-value target).",
+                "Possible missile launch sites within circular arrays."
+            ],
+            [
+                "Multiple circular structures with aircraft present.",
+                "Centralized buildings and rectangular structures.",
+                "Linear arrangements of structures.",
+                "Arrangements of partial circles.",
+                "Central building complex.",
+                "Possible radar or communication arrays.",
+                "Potential storage or parking areas for vehicles."
+            ]
+        ],
+        "deepseek_summary": {
+            "country": "Egypt",
+            "army": "Egyptian Armed Forces",
+            "base_type": "mixed",
+            "access_routes": [
+                "Road to Ras Sudr (northwest, paved highway)",
+                "Suez Canal Road (east, major arterial road)",
+                "Railway line from Cairo (southwest, freight/personnel transport)",
+                "Runway (air access, northeast-southwest orientation)",
+                "Desert tracks (unpaved paths from southern Sinai)"
+            ],
+            "special_weapons": [
+                "Possible missile launch sites",
+                "Large red-striped structure (suspected missile testing facility)",
+                "Radar/communication arrays",
+                "Aircraft within circular structures (potential air force assets)"
+            ],
+            "key_observations": [
+                "Circular structures with radar/communication equipment",
+                "Runway with painted lines for aircraft operations",
+                "Linear vehicle parking/storage areas",
+                "Fortifications and earthworks for defense",
+                "Central command and control complex",
+                "Target practice zones (partial circles)",
+                "Rows of transport vehicles indicating logistics capacity",
+                "Aircraft presence in circular arrays (air force integration)"
+            ],
+            "conclusion": "A strategically significant mixed-use military base in Sinai, combining offensive missile capabilities, air operations, and training facilities. Its location near the Suez Canal and Israel enhances its regional military importance.",
+            "threat_level": "high",
+            "recommended_attack_routes": [
+                "Airstrike from the northwest to neutralize the runway and command center using stealth bombers to evade radar.",
+                "Simultaneous precision strikes on missile launch sites and the red-striped structure to prevent retaliation.",
+                "Sabotage communication arrays via special forces infiltrating from southern desert tracks under night cover.",
+                "Disable vehicle storage areas with cluster munitions to cripple logistics.",
+                "Deploy electronic warfare to disrupt radar systems before launching a multi-axis ground assault using armored units from the east and west."
+            ]
+        }
+    },
+    "31.43088979315969,25.85720747123336": {
+        "latitude": 31.43088979315969,
+        "longitude": 25.85720747123336,
+        "findings": [
+            [
+                "Centralized compound with multiple buildings, including what appears to be a primary control building.",
+                "Six circular launch or radar sites arranged around the central compound. Each site features a semi-circular protective structure, suggesting defensive positions or equipment emplacements.",
+                "Long rectangular building likely a storage or maintenance facility.",
+                "Series of smaller support buildings and structures located to the east of the central compound.",
+                "Dirt road network connecting the different areas of the site to the larger surrounding area.",
+                "Possible security checkpoints along access roads"
+            ],
+            [
+                "Central compound with multiple buildings, including a primary control building.",
+                "Six circular launch or radar sites arranged around the central compound. Each site features a semi-circular protective structure, suggesting defensive positions or equipment emplacements.",
+                "Long rectangular building likely a storage or maintenance facility.",
+                "Series of smaller support buildings and structures located to the east of the central compound.",
+                "Dirt road network connecting the different areas of the site to the larger surrounding area.",
+                "Possible security checkpoints along access roads.",
+                "Possible radar systems are housed within the circular sites.",
+                "The site has a centralized layout, potentially for efficient command and control."
+            ],
+            [
+                "Central compound with multiple buildings, including a primary control building.",
+                "Six circular launch or radar sites arranged around the central compound. Each site features a semi-circular protective structure, suggesting defensive positions or equipment emplacements.",
+                "Long rectangular building likely a storage or maintenance facility.",
+                "Series of smaller support buildings and structures located to the east of the central compound.",
+                "Dirt road network connecting the different areas of the site to the larger surrounding area.",
+                "Possible security checkpoints along access roads.",
+                "The circular sites may house radar systems or surface-to-air missile launchers."
+            ],
+            [
+                "Central compound with multiple buildings, including a primary control building.",
+                "Six circular launch or radar sites arranged around the central compound.",
+                "Each site features a semi-circular protective structure, suggesting defensive positions or equipment emplacements. Potentially SAM launchers or radar systems.",
+                "Long rectangular building likely a storage or maintenance facility.",
+                "Series of smaller support buildings and structures located to the east of the central compound.",
+                "Dirt road network connecting the different areas of the site to the larger surrounding area.",
+                "Possible security checkpoints along access roads."
+            ],
+            [
+                "Central compound with several buildings, including what appears to be a primary control building.",
+                "Six circular launch/radar sites arranged symmetrically around the central compound.",
+                "Each site has a semi-circular protective structure, possibly emplacements for SAM launchers or radar systems.",
+                "Each of these sites contains what appear to be missile launchers or radar equipment.",
+                "A long rectangular building, likely a storage or maintenance facility.",
+                "Series of smaller support buildings and structures located to the east of the central compound.",
+                "Dirt road network connecting the different areas of the site to the larger surrounding area.",
+                "Possible security checkpoints along the access roads."
+            ],
+            [
+                "Central compound with several buildings, possibly a control or administrative center.",
+                "Six circular launch/radar sites arranged symmetrically around the central compound.",
+                "Semi-circular protective structures around each launch site, likely emplacements for SAM launchers or radar systems.",
+                "Possible missile launchers or radar equipment within each protected site.",
+                "A long rectangular building, possibly a storage or maintenance facility.",
+                "Smaller support buildings and structures to the east of the central compound.",
+                "Dirt road network connecting the site components.",
+                "Possible security checkpoints along access roads.",
+                "Possible radar",
+                "Missile Launchers"
+            ],
+            [
+                "Central compound with several buildings.",
+                "Six circular launch/radar sites arranged symmetrically around the central compound.",
+                "Semi-circular protective structures (emplacements) around each launch site.",
+                "Possible missile launchers or radar equipment within each protected site.",
+                "Long rectangular building, possibly a storage or maintenance facility.",
+                "Smaller support buildings and structures to the east of the central compound.",
+                "Dirt road network connecting the site components.",
+                "Possible security checkpoints along access roads."
+            ],
+            [
+                "Central compound with several buildings, likely for command and control, maintenance, and personnel.",
+                "Six circular launch/radar sites symmetrically arranged around the central compound, suggesting coordinated operation.",
+                "Semi-circular protective structures (emplacements) around each launch site to provide defense against air attacks.",
+                "Possible missile launchers or radar equipment within each protected site; the specific type cannot be determined from this image.",
+                "Long rectangular building likely a storage or maintenance facility for missiles, radar components, or support equipment.",
+                "Smaller support buildings to the east of the central compound, potentially for power generation, communications, or additional storage.",
+                "Dirt road network connecting all site components, facilitating movement of equipment and personnel.",
+                "Possible security checkpoints along access roads to control entry and protect the site."
+            ]
+        ],
+        "deepseek_summary": {
+            "country": "Egypt",
+            "army": "Egyptian Army",
+            "base_type": "mixed",
+            "access_routes": [
+                "Dirt road network connecting to surrounding areas with security checkpoints"
+            ],
+            "special_weapons": [
+                "Surface-to-Air Missile (SAM) launchers",
+                "Radar systems",
+                "Possible missile launchers"
+            ],
+            "key_observations": [
+                "Centralized compound with primary control building for command and control",
+                "Six circular sites with semi-circular protective structures housing SAM launchers or radar",
+                "Long rectangular building likely for missile/equipment storage",
+                "Smaller support buildings to the east for power, communications, or storage",
+                "Dirt road network facilitating equipment movement",
+                "Security checkpoints controlling site access"
+            ],
+            "conclusion": "A strategic air defense installation with SAM systems, radar, and potential offensive capabilities, providing coordinated regional air cover and posing a significant threat to aerial operations.",
+            "threat_level": "high",
+            "recommended_attack_routes": [
+                "Conduct a multi-axis aerial assault from the northeast and southwest to divide defensive focus.",
+                "Utilize stealth aircraft to neutralize radar systems in the circular sites before targeting the command center.",
+                "Deploy precision-guided munitions on the storage/maintenance facility to disrupt logistics and missile resupply.",
+                "Infiltrate special forces via the eastern support buildings to sabotage power generators and communications infrastructure.",
+                "Employ low-altitude drone strikes and electronic warfare to bypass radar detection and jam SAM guidance systems during the attack."
+            ]
+        }
+    },
+    "31.50731839628612,25.85398364393992": {
+        "latitude": 31.50731839628612,
+        "longitude": 25.85398364393992,
+        "findings": [
+            [
+                "Multiple circular structures, possibly related to radar or communications.",
+                "A complex of rectangular buildings that may be for housing, storage, or administrative purposes.",
+                "Large, possibly reinforced structure with a metal roof, purpose unknown (likely storage or maintenance).",
+                "Presence of several unpaved roads and possible vehicle tracks indicating movement within the facility.",
+                "A cultivated/developed field, possibly for food production or agricultural research.",
+                "Numerous smaller buildings or structures, purposes undetermined."
+            ],
+            [
+                "Multiple circular structures, likely radar or communications installations.",
+                "A complex of rectangular buildings that may serve as housing, storage, or administrative buildings.",
+                "Large metal roofed structure, potentially for storage or maintenance.",
+                "Unpaved roads connecting different parts of the base.",
+                "Cultivated field.",
+                "Numerous smaller buildings or structures of undetermined purpose.",
+                "Possible SAM sites (surface to air missile) within the circular structures.",
+                "A long building probably a hangar or maintenance facility"
+            ],
+            [
+                "Multiple circular structures (likely radar/communications installations)",
+                "Complex of rectangular buildings (possible housing, storage, or administrative buildings)",
+                "Large metal roofed structure (potentially for storage or maintenance)",
+                "Unpaved roads connecting different parts of the base",
+                "Long building (possible hangar or maintenance facility)",
+                "Cultivated field",
+                "Numerous smaller buildings or structures of undetermined purpose"
+            ],
+            [
+                "Multiple circular structures, likely radar or communications installations, varying in size.",
+                "Complex of rectangular buildings that may serve as housing, storage, or administrative buildings.",
+                "Large metal-roofed structure, potentially a storage or maintenance facility.",
+                "Several smaller rectangular structures with no clear purpose",
+                "Unpaved roads connecting the various facilities within the base.",
+                "A long building, possibly a hangar or maintenance facility.",
+                "Cultivated field near the base",
+                "Antenna arrays inside circular structures."
+            ],
+            [
+                "Multiple circular structures, varying in size, likely radar or communications installations.",
+                "Complex of rectangular buildings potentially serving as housing, storage, or administrative buildings.",
+                "Large metal-roofed structure, potentially a storage or maintenance facility.",
+                "Several smaller rectangular structures with no clear purpose identified.",
+                "Unpaved roads connecting the various facilities within the base.",
+                "A long building, possibly a hangar or maintenance facility.",
+                "Possible antenna arrays located inside the circular structures.",
+                "A series of cultivated lands near the base.",
+                "A number of rectangular buildings that may be barracks, administrative offices or storage.",
+                "The presence of a complex radar array suggesting the base could be linked to air defence or communications."
+            ],
+            [
+                "Multiple circular structures with internal features (likely radar installations).",
+                "Complex of rectangular buildings (housing, storage, administrative).",
+                "Large metal-roofed structure (storage or maintenance facility).",
+                "Smaller rectangular structures of unknown purpose.",
+                "Unpaved road network connecting facilities.",
+                "Long building, possibly a hangar or maintenance facility.",
+                "Possible antenna arrays located inside circular structures.",
+                "Cultivated lands near the base.",
+                "Rectangular buildings potentially used as barracks, administrative offices, or storage."
+            ],
+            [
+                "Multiple circular structures with internal features (likely radar installations).",
+                "Complex of rectangular buildings (housing, storage, administrative).",
+                "Large metal-roofed structure (storage or maintenance facility).",
+                "Smaller rectangular structures of unknown purpose.",
+                "Unpaved road network connecting facilities.",
+                "Possible antenna arrays located inside circular structures.",
+                "Cultivated lands near the base.",
+                "Long building, possibly a hangar or maintenance facility.",
+                "Defensive emplacements (possible) located near the circular structures."
+            ],
+            [
+                "Multiple circular structures with internal features (likely radar installations/communication arrays).",
+                "Complex of rectangular buildings (possible housing, storage, administrative buildings).",
+                "Large metal-roofed structure (potentially a storage or maintenance facility).",
+                "Smaller rectangular structures of unknown purpose.",
+                "Unpaved road network connecting the different areas of the facility.",
+                "Antenna arrays located inside the circular structures.",
+                "Cultivated lands near the base.",
+                "Long building, possibly a hangar or maintenance facility.",
+                "Possible defensive emplacements located near the circular structures.",
+                "Possible barracks or living quarters."
+            ]
+        ],
+        "deepseek_summary": {
+            "country": "Egypt",
+            "army": "Egyptian Armed Forces",
+            "base_type": "mixed",
+            "access_routes": [
+                "Unpaved roads connecting internal facilities from the northeast",
+                "Potential access via the main road from the southeast leading to the central compound"
+            ],
+            "special_weapons": [
+                "Possible SAM (Surface-to-Air Missile) systems",
+                "Antenna arrays for radar/communication"
+            ],
+            "key_observations": [
+                "Multiple radar/communication installations with circular structures",
+                "Large metal-roofed buildings likely for storage or maintenance",
+                "Presence of barracks, administrative buildings, and storage facilities",
+                "Defensive emplacements near radar installations",
+                "Extensive unpaved road network for internal logistics",
+                "Cultivated land adjacent to the base, possibly for local supply"
+            ],
+            "conclusion": "A mixed-use military base with radar/communication infrastructure, SAM systems, and logistical support, likely serving as a strategic air defense and communication hub in the region.",
+            "threat_level": "high",
+            "recommended_attack_attack": [
+                "Conduct aerial strikes on radar installations from the northwest to disable early-warning systems.",
+                "Use precision-guided munitions to target SAM sites located within the circular structures.",
+                "Disrupt communication by jamming antenna arrays prior to ground assault.",
+                "Deploy ground forces from the southeast using the main road to breach the central compound.",
+                "Sabotage supply routes by targeting unpaved roads to hinder logistical reinforcements."
+            ]
+        }
+    },
+    "31.49823809795414,25.92810003146311": {
+        "latitude": 31.49823809795414,
+        "longitude": 25.92810003146311,
+        "findings": [
+            [
+                "Multiple circular structures, possibly for missile defense systems or fuel storage.",
+                "Large rectangular building, possibly a storage facility or barracks.",
+                "Network of roads and paths connecting the different structures.",
+                "Several smaller buildings, likely administrative or support facilities.",
+                "Perimeter fence or wall around the base.",
+                "Possible radar installations based on the circular shapes."
+            ],
+            [
+                "Multiple circular structures, possibly for missile defense systems or fuel/water storage.",
+                "Large rectangular building, likely a storage facility or barracks.",
+                "Network of roads and paths connecting the different structures.",
+                "Several smaller buildings, likely administrative or support facilities.",
+                "Perimeter fence or wall around the base.",
+                "Possible radar installations based on the circular shapes.",
+                "Centralized command and control building located between the circular structure",
+                "Possible fuel storage area near rectangular building",
+                "Observation post located within the perimeter",
+                "Possible checkpoints at entry points to the base."
+            ],
+            [
+                "Multiple circular structures (possible missile defense or storage)",
+                "Large rectangular building (storage or barracks)",
+                "Network of roads and paths",
+                "Several smaller buildings (administrative or support)",
+                "Perimeter fence/wall",
+                "Possible radar installations (circular shapes)",
+                "Centralized command and control building (near circular structures)",
+                "Possible fuel storage (near rectangular building)",
+                "Observation post (within perimeter)",
+                "Possible checkpoints (entry points)",
+                "Long building with a metallic roof, likely a maintenance or storage facility"
+            ],
+            [
+                "Multiple circular structures (possible missile defense or storage)",
+                "Large rectangular building (storage or barracks)",
+                "Network of roads and paths",
+                "Several smaller buildings (administrative or support)",
+                "Possible radar installations (circular shapes)",
+                "Centralized command and control building (near circular structures)",
+                "Long building with a metallic roof, likely a maintenance or storage facility",
+                "Perimeter fence/wall"
+            ],
+            [
+                "Multiple circular structures (likely SAM sites with six launch pads each)",
+                "Large rectangular building (possible storage or barracks)",
+                "Network of roads and paths connecting various structures",
+                "Several smaller buildings (administrative or support buildings)",
+                "Long building with a metallic roof (likely a maintenance or storage facility)",
+                "Central compound area consisting of several structures",
+                "Possible radar or communication installations (associated with SAM sites)",
+                "Possible ground-to-air defense capabilities.",
+                "Possible vehicle tracks/paths"
+            ],
+            [
+                "Multiple circular structures (likely SAM sites with six launch pads each)",
+                "Large rectangular building (possible storage or barracks)",
+                "Network of roads and paths connecting various structures",
+                "Several smaller buildings (administrative or support buildings)",
+                "Long building with a metallic roof (likely a maintenance or storage facility)",
+                "Central compound area consisting of several structures",
+                "Possible radar or communication installations (associated with SAM sites)",
+                "Possible vehicle tracks/paths"
+            ],
+            [
+                "Multiple circular structures, likely Surface-to-Air Missile (SAM) sites, each with six launch pads.",
+                "Large rectangular building, potentially a storage facility or barracks.",
+                "Extensive network of roads and paths connecting the various structures.",
+                "Several smaller buildings, likely serving as administrative or support buildings.",
+                "Long building with a metallic roof, possibly a maintenance or storage facility.",
+                "Central compound area containing several interconnected structures.",
+                "Possible radar or communication installations associated with the SAM sites.",
+                "Vehicle tracks/paths indicating movement and operational activity.",
+                "Possible revetments or defensive earthworks surrounding the circular structures.",
+                "The SAM sites are arranged in a roughly hexagonal pattern, potentially for overlapping defensive coverage.",
+                "A secondary rectangular building",
+                "A single circular emplacement near the secondary rectangular building."
+            ],
+            [
+                "Multiple circular structures, likely Surface-to-Air Missile (SAM) sites, each with six launch pads.",
+                "Large rectangular building, potentially a storage facility or barracks.",
+                "Extensive network of roads and paths connecting the various structures.",
+                "Several smaller buildings, likely serving as administrative or support buildings.",
+                "Long building with a metallic roof, possibly a maintenance or storage facility.",
+                "Central compound area containing several interconnected structures.",
+                "Possible radar or communication installations associated with the SAM sites.",
+                "Vehicle tracks/paths indicating movement and operational activity.",
+                "Possible revetments or defensive earthworks surrounding the circular structures.",
+                "The SAM sites are arranged in a roughly hexagonal pattern, potentially for overlapping defensive coverage.",
+                "A secondary rectangular building",
+                "A single circular emplacement near the secondary rectangular building."
+            ]
+        ],
+        "deepseek_summary": {
+            "country": "Egypt",
+            "army": "Egyptian Armed Forces",
+            "base_type": "mixed",
+            "access_routes": [],
+            "special_weapons": [
+                "Surface-to-Air Missiles (SAM)",
+                "Radar installations",
+                "Ground-to-air defense systems"
+            ],
+            "key_observations": [
+                "Multiple circular structures identified as SAM sites with six launch pads each.",
+                "Revetments or defensive earthworks surrounding SAM sites.",
+                "SAM sites arranged in a hexagonal pattern for overlapping defensive coverage.",
+                "Centralized command and control building near circular structures.",
+                "Long metallic-roofed building likely serving as a maintenance or storage facility.",
+                "Perimeter fence/wall with checkpoints at entry points.",
+                "Vehicle tracks/paths indicating frequent operational activity.",
+                "Possible fuel storage areas adjacent to rectangular buildings.",
+                "Observation post within the perimeter for surveillance."
+            ],
+            "conclusion": "A strategically significant mixed-use military base with advanced SAM defenses, command infrastructure, and logistical support. Likely serves as a key air defense node protecting critical regional assets or borders.",
+            "threat_level": "high",
+            "recommended_attack_routes": [
+                "Conduct SEAD (Suppression of Enemy Air Defenses) operations to neutralize radar and SAM sites prior to main assault.",
+                "Exploit gaps in hexagonal SAM coverage using low-altitude, high-speed aircraft to avoid detection.",
+                "Deploy stealth aircraft or drones to target the centralized command building and communication installations.",
+                "Launch simultaneous ground assaults from multiple directions using vehicle tracks/paths to disrupt defensive coordination.",
+                "Sabotage fuel storage areas near rectangular buildings to cripple logistics.",
+                "Utilize cyber-electronic warfare to disrupt command and control systems during the attack.",
+                "Employ decoy munitions to draw fire and reveal SAM positions for counterstrikes."
+            ]
+        }
+    }
+}
